@@ -16,7 +16,7 @@ FILE_PATH = os.path.join(os.path.dirname(__file__),"words.txt")
 def main(alphabet: list, discriminator: list, filepath: os.path):
     letter = random.choice(ALPHABET)
     number = str(random.randint(1000, 9999))
-    disc = discriminator.random.choice(discriminator)
+    disc = random.choice(discriminator)
 
     # Open the text file
     with open(FILE_PATH, "r") as f:
