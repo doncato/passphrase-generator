@@ -27,4 +27,5 @@ def main(alphabet: list, discriminator: list, filepath: os.path):
     
     return letter+disc+number+disc+word.capitalize()
 
-print(main(ALPHABET, DISCRIMINATOR, FILE_PATH))
+if __name__ == "__main__":
+    print(main(ALPHABET, DISCRIMINATOR, FILE_PATH))
