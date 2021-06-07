@@ -7,7 +7,7 @@ Meaning There are as much possible phrases as:<br>
 __[Count of Descriminators] * [Length of the Alphabet] * [Length of possible Numbers] * [Count of possible words]__
 
 With the default, provided values this leaves
-399'666'827'640 (~399.7*10^9) possibilities
+4'163'658'750'000 (~4.2*10^12) possibilities
 **Please note that I am not a security expert**
 
 ## Installation & Execution
