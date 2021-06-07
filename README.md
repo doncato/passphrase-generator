@@ -4,7 +4,7 @@ A simple script to generate Passphrases that are Human readable while being mode
 ## Safety
 The possibilities of combinations can be calculated by multiplying the possibilities of each 'field'
 Meaning There are as much possible phrases as:<br>
-__[Count of Descriminators] * [Length of the Alphabet] * [Length of possible Numbers] * [Count of possible words]__* 3 (Words can be Uppercase, Lowercase and Capitalized)
+__[Count of Descriminators] * [Length of the Alphabet] * [Length of possible Numbers] * [Count of possible words]__ * 3 (Words can be Uppercase, Lowercase and Capitalized)
 
 With the default, provided values this leaves
 ~1.4*10^12 possibilities
