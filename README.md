@@ -12,4 +12,4 @@ This code has a function called `generate_passphrase` which returns a tuple of 3
 + Run the script using `python3 <path/to/script>` on UNIX Platforms or `py <path/to/script>`/`py3 <path/to/script>` on Windows
 
 ## Notes
-+ You could theoratically use this as a library in other projects (`from pass-gen import generate_passphrase` and later use `generate_passphrase`)
++ You could theoratically use this as a library in other projects (`from passgen import generate_passphrase` and later use `generate_passphrase`)
